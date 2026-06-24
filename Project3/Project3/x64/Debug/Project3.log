@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\ldc\Desktop\testcode\Project3\FileName.cpp(14,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ldc\Desktop\testcode\Project3\FileName.cpp(22,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ldc\Desktop\testcode\Project3\FileName.cpp(26,27): warning C4018: “<”: 有符号/无符号不匹配
+  Project3.vcxproj -> C:\Users\ldc\Desktop\testcode\Project3\x64\Debug\Project3.exe
